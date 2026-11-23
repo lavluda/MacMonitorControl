@@ -1,0 +1,24 @@
+.DS_Store
+._*
+DerivedData/
+xcuserdata/
+*.xcuserstate
+
+# Local build and distribution products
+*.app/
+*.dSYM/
+*.xcarchive/
+*.xcresult/
+*.dmg
+*.pkg
+
+# Local environment and code-signing credentials
+.env
+.env.*
+*.p8
+*.p12
+*.pfx
+*.key
+*.pem
+*.mobileprovision
+*.provisionprofile
